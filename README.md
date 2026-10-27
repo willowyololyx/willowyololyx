@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Yingxue Li
 
-<!--
-**willowyololyx/willowyololyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in Environmental Engineering at Tianjin University, interested in molecular simulation, solid–liquid interfaces, and AI for Science.
 
-Here are some ideas to get you started:
+My research investigates how surface heterogeneity and interfacial water influence the adsorption of polymer oligomers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research & tools
+
+Molecular dynamics simulations with GROMACS
+
+Umbrella sampling and free-energy analysis
+
+Molecular trajectory analysis with Python and MDAnalysis
+
+Scientific data processing and visualization with NumPy, Pandas, and Matplotlib
+
+Current learning focus
+
+I'm developing my practical skills in machine learning for scientific applications, starting with radar precipitation nowcasting inspired by CINECA's training on AI and radar data.
+
+My planned workflow includes data exploration, pretrained-model inference, baseline comparisons, and analysis of prediction errors.
+
+Training
+
+CINECA — Forecasting Precipitation with AI and Radar Data, online training
+
+LMU Open Science Summer School 2026 — Track 1 online lectures
+
+I aim to share reproducible code, documented experiments, and clear explanations of results and limitations.
